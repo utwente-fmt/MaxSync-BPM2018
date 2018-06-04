@@ -71,8 +71,10 @@ Bloemen](mailto:v.bloemen@utwente.nl)) for further help.
 Data
 ---
 
-All data used in the paper is available at the 4TU data centre:
-http://doi.org/10.4121/uuid:5f168a76-cc26-42d6-a67d-48be9c978309
+The data used in this paper is currently being uploaded to the 4TU data centre,
+the corresponding DOI will be placed here when it is done. Meanwhile, you
+can contact the first author ([Vincent Bloemen](mailto:v.bloemen@utwente.nl))
+if you would like to obtain the data.
 
 [ProM]: http://www.promtools.org/doku.php
 [LTSmin]: http://fmt.cs.utwente.nl/tools/ltsmin/
