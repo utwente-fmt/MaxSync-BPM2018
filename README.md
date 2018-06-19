@@ -59,9 +59,9 @@ The implementation for A&#42; and the transitive closure graph algorithm are
 available in [ProM] 6.8 toolset (the transitive closure graph algorithm is
 implemented in the `MaxSyncAlignments` package). 
 
-The source code for the Symbolic alignment algorithm is obtained by the
-following command:
-* `$ git clone git@github.com:vbloemen/ltsmin.git -b acsd18 --recursive`
+The source code and installation instructions for the Symbolic alignment
+algorithm is obtained from 
+https://github.com/utwente-fmt/SymbolicAlign-ACSD18.
 
 If you experience any issues with the installation please consult the [LTSmin] 
 website for further instructions. Otherwise, or if you would like help to
